@@ -1,0 +1,6 @@
+BEGIN
+    panjang = 5
+    tinggi = 3
+    luas = panjang * tinggi
+    PRINT "Luas Jajar Genjang:", luas
+END
