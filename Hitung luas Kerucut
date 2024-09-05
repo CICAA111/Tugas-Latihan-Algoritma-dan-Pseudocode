@@ -1,0 +1,7 @@
+BEGIN
+    diameter = 5
+    r = diameter / 2
+    tinggi = 4
+    volume = (1/3) * 3.14 * r^2 * tinggi
+    PRINT "Volume Kerucut:", volume
+END
