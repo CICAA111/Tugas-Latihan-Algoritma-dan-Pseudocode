@@ -1,0 +1,9 @@
+BEGIN
+    x = "Manggis"
+    y = "Pisang"
+    temp = x
+    x = y
+    y = temp
+    PRINT "Piring 1:", x
+    PRINT "Piring 2:", y
+END
