@@ -1,3 +1,12 @@
+Algoritma 
+1. Mulailah dengan menetapkan bahwa manggis berada di piring 1 dan pisang berada di piring 2.
+2. Ambil manggis dari piring 1 dan letakkan di piring 3 yang kosong.
+3. Pindahkan pisang dari piring 2 ke piring 1.
+4. Pindahkan manggis dari piring 3 ke piring 2.
+5. Tampilkan isi piring 1 dan piring 2 setelah pertukaran.
+6. Selesai.
+
+Pseudocode
 BEGIN
     x = "Manggis"
     y = "Pisang"
