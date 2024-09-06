@@ -1,3 +1,12 @@
+Algoritma 
+1. Tentukan diameter dan tinggi kerucut, yaitu diameter = 5 dan tinggi = 4.
+2. Hitung jari-jari kerucut dengan menggunakan rumus Phi  π 
+3. Gunakan rumus volume kerucut 
+4. Hitung volume kerucut berdasarkan nilai jari-jari dan tinggi yang telah dihitung.
+5. Tampilkan hasil perhitungan volume kerucut.
+6. Selesai.
+
+Pseudocode
 BEGIN
     diameter = 5
     r = diameter / 2
