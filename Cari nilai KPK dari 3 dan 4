@@ -1,4 +1,14 @@
-Cari nilai KPK dari 3 dan 4
+Algoritma 
+1. Mulailah dengan menentukan dua bilangan, yaitu 3 dan 4.
+2. Cari faktor persekutuan terbesar (FPB) dari kedua bilangan menggunakan metode Euclidean:
+   - Bagi bilangan yang lebih besar dengan yang lebih kecil, ambil sisa bagi.
+   - Ulangi langkah ini sampai tidak ada sisa.
+   - FPB adalah bilangan yang tersisa saat tidak ada lagi sisa bagi.
+3. Hitung KPK dengan menggunakan rumus KPK, di mana a dan b adalah kedua bilangan.
+4. Tampilkan hasil KPK yang telah dihitung.
+5. Selesai.
+
+Pseudocode Cari nilai KPK dari 3 dan 4
 BEGIN
     a = 3
     b = 4
@@ -13,6 +23,8 @@ BEGIN
         lcm = lcm + 1
     END WHILE
 END
+
+
 
 
 
