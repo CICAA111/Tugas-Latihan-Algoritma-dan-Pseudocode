@@ -1,0 +1,9 @@
+angka_pertama = int(input("Masukkan angka Ke -1: "))
+angka_kedua = int(input("Masukkan angka Ke-2: "))
+
+if angka_pertama > angka_kedua:
+    print("Angka terbesar adalah:", angka_pertama)
+elif angka_kedua > angka_pertama:
+    print("Angka terbesar adalah:", angka_kedua)
+else:
+    print("Kedua angka sama besar:", angka_pertama)
