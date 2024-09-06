@@ -1,3 +1,11 @@
+Algoritma 
+1. Tentukan panjang dan tinggi jajar genjang, yaitu panjang = 5 dan tinggi = 3.
+2. Gunakan rumus luas jajar genjang.
+3. Hitung luas jajar genjang dengan mengalikan panjang dan tinggi.
+4. Tampilkan hasil perhitungan luas jajar genjang.
+5. Selesai.
+
+Pseudocode
 BEGIN
     panjang = 5
     tinggi = 3
