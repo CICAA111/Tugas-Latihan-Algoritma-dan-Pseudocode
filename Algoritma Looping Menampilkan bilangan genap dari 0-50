@@ -1,0 +1,6 @@
+Mulai
+   i ← 0
+   Selama i ≤ 50 lakukan:
+       Cetak i
+       i ← i + 2
+Selesai
