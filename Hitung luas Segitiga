@@ -1,3 +1,11 @@
+Algoritma 
+1. Tentukan nilai alas dan tinggi segitiga, di mana alas = 25 dan tinggi = 30.
+2. Gunakan rumus luas segitiga.
+3. Hitung luas segitiga berdasarkan nilai alas dan tinggi yang telah diberikan.
+4. Tampilkan hasil perhitungan luas segitiga.
+5. Selesai.
+
+Pseucode
 BEGIN
     alas = 25
     tinggi = 30
